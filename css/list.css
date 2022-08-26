@@ -1,0 +1,90 @@
+.nav {
+    overflow: hidden;
+}
+.sk {
+    position: absolute;
+    top: 40px;
+    left: 185px;
+    border-left: 1px solid #b1191a;
+    height: 32px;
+    padding-left: 14px;
+    padding-top: 3px;
+}
+.sk_list ul li {
+    float: left;
+    font-size: 16px;
+    font-weight: 700;
+    color: black;
+    padding: 0 28px;
+    line-height: 47px;
+}
+.sk_con ul li {
+    float: left;
+    line-height: 47px;
+    padding: 2px 23px 0px;
+}
+.sk_con ul li:last-child::after {
+    content: '  \e65b';
+    font-family: iconfont;
+}
+.sk_bd {
+    margin-top: 25px;
+    margin-bottom: 200px;
+}
+.sk_bd ul li {
+    float: left;
+    width: 290px;
+    height: 460px;
+    margin-right: 13px;
+    margin-bottom: 10px;
+    border: 1px solid transparent;
+    overflow: hidden;
+}
+.sk_bd ul li:nth-child(4n) {
+    margin-right: 0;
+}
+.sk_bd ul li:hover {
+    border: 1px solid #e12228;
+}
+.sk_bd ul li h6 {
+    margin-top: 10px;
+    margin-left: 15px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #666;
+}
+.sk_bd ul li p {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 15px;
+    font-size: 22px;
+    color: #e60012;
+    font-weight: 700;
+}
+.sk_bd ul li>div {
+    margin-top: 6px;
+    margin-left: 15px;
+}
+.sk_bd ul li>div .wai {
+    display: inline-block;
+    width: 132px;
+    height: 12px;
+    border: 1px solid #ed282e;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.sk_bd ul li>div .nei {
+    width: 87%;
+    height: 12px;
+    background-color: #ed282e;
+}
+.sk_bd ul li button {
+    width: 292px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: #b1191a;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    line-height: 50px;
+}

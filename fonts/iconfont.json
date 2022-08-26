@@ -1,0 +1,121 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "28986112",
+      "name": "优选精品",
+      "font_class": "youxuanjingpin",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "28986113",
+      "name": "账号诊断",
+      "font_class": "zhanghaozhenduan",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "28986117",
+      "name": "去分享",
+      "font_class": "qufenxiang",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "28986118",
+      "name": "选品广场",
+      "font_class": "xuanpinguangchang",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "28986121",
+      "name": "警告提示",
+      "font_class": "jinggaotishi",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "28986122",
+      "name": "更多功能",
+      "font_class": "gengduogongneng",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "28986125",
+      "name": "等待提示",
+      "font_class": "dengdaitishi",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "28986130",
+      "name": "冻结提示",
+      "font_class": "dongjietishi",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "28986131",
+      "name": "官方账号",
+      "font_class": "guanfangzhanghao",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "28986133",
+      "name": "精选收藏",
+      "font_class": "jingxuanshoucang",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "28986136",
+      "name": "违禁词检测",
+      "font_class": "weijincijiance",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "28986137",
+      "name": "成功提示",
+      "font_class": "chenggongtishi",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "28986139",
+      "name": "工作台",
+      "font_class": "gongzuotai",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "29731517",
+      "name": "帮助中心",
+      "font_class": "bangzhuzhongxin",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "29731523",
+      "name": "推荐",
+      "font_class": "tuijian",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "29731525",
+      "name": "意见反馈",
+      "font_class": "yijianfankui",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    }
+  ]
+}
